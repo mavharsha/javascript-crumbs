@@ -10,7 +10,7 @@ It does not have classes, but it does have constructors which do what classes do
 It does not have class-oriented inheritance, but it does have prototype-oriented inheritance.
 
 Some argue that JavaScript is not truly object oriented because it does not provide information hiding,  
-because it does not have provate variables and private methods.  
+because it does not have private variables and private methods.  
 But it turns out that JavaScript objects can have private variables and private methods. 
 
 Some argue that JavaScript is not truly object oriented because it does not provide inheritance.   
